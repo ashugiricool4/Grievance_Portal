@@ -71,7 +71,7 @@ This project is licensed under the MIT License.
 Made with ❤️ using Flask & Jinja2
 
 ![image](https://github.com/user-attachments/assets/db63f888-c6a4-4762-9190-1bdd25eaabd7)
-![image](https://github.com/user-attachments/assets/a49d3748-1a61-4a68-84da-c4e3f836db1e)
+![image](https://github.com/user-attachments/assets/bc0aaece-fb12-41f8-a345-3ab9fc16b021)
 ![image](https://github.com/user-attachments/assets/8dce6938-6cd6-4632-a839-a4551f464dae)
 ![image](https://github.com/user-attachments/assets/c6af93a8-62ce-4802-94dd-f3035824a4fa)
 
